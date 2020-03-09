@@ -88,10 +88,7 @@ def gross_per_studio(collection)
                     end
                     studio_gross[collection[x][:studio]] = total
 
-
                     return studio_gross
-
-
 
 end
 
